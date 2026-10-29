@@ -1,0 +1,5 @@
+Plaintext
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
